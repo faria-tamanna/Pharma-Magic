@@ -1,0 +1,2 @@
+# Pharma-Magic
+Pharma Magic is a platform that assists patients all across the world. This platform will assist people in managing their prescribed medications as recommended by approved doctors. A user may submit a photo of a prescription to our platform, and our system will automatically recognize the medications and their routing and display them. Users may also choose an alternate brand for a drug from our site, along with their pricing, and print it.
